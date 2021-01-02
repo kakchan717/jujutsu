@@ -1,0 +1,93 @@
+{
+  "ads_config": {
+    "ad_waterfall": [
+      "admob",
+      "unity"
+    ],
+    "ad_time": 20,
+    "ad_model": [
+      {
+        "name": "admob",
+        "app_id": "ca-app-pub-6393368962123174~1847753770",
+        "banner_id": "ca-app-pub-6393368962123174/2833338864",
+        "popup_id": "ca-app-pub-6393368962123174/6581012188",
+        "reward_id": ""
+      },
+      {
+        "name": "unity",
+        "app_id": "3959243",
+        "banner_id": "banner",
+        "popup_id": "video",
+        "reward_id": "rewardedVideo"
+      }
+    ]
+  },
+  "album_config": {
+    "album": [
+      "yuji",
+      "gojo",
+      "nobara",
+      "megumi",
+      "others"
+    ]
+  },
+  "update_config": {
+    "enable": false,
+    "versionCode": 1,
+    "versionName": "1.0",
+    "title": "",
+    "message": ""
+  },
+  "redirect_config": {
+    "enable": false,
+    "title": "",
+    "message": "",
+    "url": ""
+  },
+  "fanpage_config": {
+    "fanpage": [
+      {
+        "link": "https://www.facebook.com/groups/700450203960630",
+        "target": "us",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/700450203960630",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/700450203960630",
+        "target": "def",
+        "enable": true
+      }
+    ]
+  },
+  "shopping_config": {
+    "shopping": [
+      {
+        "data_file_url": "",
+        "target": "def",
+        "enable": false,
+        "show_price": true
+      },
+      {
+        "data_file_url": "",
+        "target": "vn",
+        "enable": false,
+        "show_price": true
+      },
+      {
+        "data_file_url": "",
+        "target": "us",
+        "enable": false,
+        "show_price": true
+      }
+    ]
+  },
+  "moreapp_config": {
+    "moreapp": [
+     
+    ]
+  }
+}
