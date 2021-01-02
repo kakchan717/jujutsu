@@ -87,7 +87,25 @@
   },
   "moreapp_config": {
     "moreapp": [
-     
+      {
+        "title": "Sword Art Online Wallpaper",
+        "text": "",
+        "iconUrl": "https://i.pinimg.com/564x/c9/6b/16/c96b1603cd0bbf03de120ec997ebf942.jpg",
+        "mainImageUrl": "https://i.pinimg.com/1200x/21/f3/58/21f3582ef1a60f04fca2ccfc47e19dce.jpg",
+        "actionUrl": "com.kakchan.sao.wallpaper",
+        "stars": 5,
+        "numberOfUser": 100000
+      },
+      {
+        "title": "Kimetsu no Yaiba Wallpaper",
+        "text": "",
+        "iconUrl": "https://i.pinimg.com/564x/8d/4b/1d/8d4b1d70ba795d659f890c92aab2e617.jpg",
+        "mainImageUrl": "https://i.pinimg.com/1200x/af/b5/d9/afb5d9e43dacea2b8571a67effa8921d.jpg",
+        "actionUrl": "com.kakchan.kimetsu.photo",
+        "stars": 5,
+        "numberOfUser": 100000
+      }
+  
     ]
   }
 }
